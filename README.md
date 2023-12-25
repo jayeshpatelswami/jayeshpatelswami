@@ -17,9 +17,9 @@ I am a results-driven Full Stack Developer with expertise in React.js, React Nat
 
 ## 🚀 Projects
 Here are a few projects that showcase my skills:
-- Portfolio (https://github.com/jayeshpatelswami/Portfoliomay2023)
-- News App (https://github.com/jayeshpatelswami/patel_akhbar_newsapp)
-- MERN Notebook (https://github.com/jayeshpatelswami/Mernnotebookfrontend , https://github.com/jayeshpatelswami/mernnotebookbackend)
+- [Portfolio](https://github.com/jayeshpatelswami/Portfoliomay2023)
+- [News App](https://github.com/jayeshpatelswami/patel_akhbar_newsapp)
+- [MERN Notebook](https://github.com/jayeshpatelswami/Mernnotebookfrontend , https://github.com/jayeshpatelswami/mernnotebookbackend)
 
 ## 🌐 Find Me Online
 - [LinkedIn](https://www.linkedin.com/in/patel-jayesh-487211245/)
